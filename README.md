@@ -1,7 +1,8 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Yaseen;Freelance+Flutter+Developer;UI%2FUX+Enthusiast;Tech+Explorer+%F0%9F%9A%80" alt="Typing Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Yaseen;Freelance+Flutter+Developer;UI%2FUX+Enthusiast;Tech+Explorer+%F0%9F%9A%80" alt="Typing Banner"/>
 </p>
+
 <!-- Top Banner (GIF programmer theme, 16:9 ratio recommended) -->
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF Banner" width="100%" />

@@ -73,12 +73,6 @@
 
 ---
 
-# 🎉 Visitors & Activity:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yaseeeeeeeeeeen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://badges.pufler.dev/commits/monthly/yaseeeeeeeeeeen" alt="Monthly commits" />
-</p>
-
 ---
 
 <!-- Animated Footer -->

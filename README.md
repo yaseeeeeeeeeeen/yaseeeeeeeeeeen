@@ -1,8 +1,7 @@
-<!-- Header Banner -->
-<img src="https://i.ibb.co/7r9tJmN/github-header.png" width="100%" alt="Banner"/>
-
-<h1 align="center">Hi 👋, I'm Muhammed Yaseen</h1>
-<h3 align="center">🚀 Freelance Flutter Developer | UI/UX Enthusiast | Tech Explorer</h3>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Yaseen;Freelance+Flutter+Developer;UI%2FUX+Enthusiast;Tech+Explorer+%F0%9F%9A%80" alt="Typing Banner"/>
+</p>
 
 ---
 
@@ -54,12 +53,12 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yaseeeeeeeeeeen&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=yaseeeeeeeeeeen&theme=dark&hide_border=false" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yaseeeeeeeeeeen&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=yaseeeeeeeeeeen&theme=radical&hide_border=false" height="150"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseeeeeeeeeeen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseeeeeeeeeeen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 </p>
 
 ---
@@ -71,12 +70,15 @@
 
 ---
 
-# ✨ Fun Extras:
-- 🖌️ I enjoy blending **design + development** to create pixel-perfect apps  
-- 🎬 Outside coding, I love **editing, AI visuals, and creative content**  
-- 🌍 Dreaming of building products that **connect people globally**  
+# 🎉 Visitors & Activity:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yaseeeeeeeeeeen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://badges.pufler.dev/commits/monthly/yaseeeeeeeeeeen" alt="Monthly commits" />
+</p>
 
 ---
 
-<!-- Footer Banner -->
-<img src="https://i.ibb.co/0jFjqsk/github-footer.png" width="100%" alt="Footer"/>
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=FF6EC7&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing+together!+🚀" alt="Footer Animation"/>
+</p>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff6ec7,100:833ab4&height=280&section=header&text=Hi%20there,%20I'm%20Yaseen!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Freelance%20Flutter%20Developer%20|%20UI/UX%20Enthusiast%20|%20Tech%20Explorer%20🚀&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff6ec7,100:833ab4&height=280&section=header&text=Hi%20there,%20I'm%20Yaseen!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20Flutter%20Developer%20|%20UI/UX%20Enthusiast%20|%20Tech%20Explorer%20🚀&descSize=20&descAlignY=55" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff0000&center=true&vCenter=true&width=700&lines=🚀+Freelance+Flutter+Developer;🎨+UI/UX+Enthusiast;✨+Tech+Explorer" alt="Typing SVG" />
 
@@ -29,7 +29,7 @@
 
 ## 🚀 My Story
 
-Hey there! I’m Yaseen — a passionate Freelance Flutter Developer who loves turning wild ideas into pixel-perfect mobile experiences.
+Hey there! I’m Yaseen — a passionate Flutter Developer who loves turning wild ideas into pixel-perfect mobile experiences.
 
 💡 My journey started with sketching UI/UX mockups, but curiosity pulled me deeper into code — now I craft apps from concept ✏️ to deployment 🚀, making sure every screen feels alive.
 

@@ -1,10 +1,13 @@
+<!-- Header Banner -->
+<img src="https://i.ibb.co/7r9tJmN/github-header.png" width="100%" alt="Banner"/>
+
 <h1 align="center">Hi 👋, I'm Muhammed Yaseen</h1>
 <h3 align="center">🚀 Freelance Flutter Developer | UI/UX Enthusiast | Tech Explorer</h3>
 
 ---
 
 # 💫 About Me:
-🔭 I’m currently working as a **Freelance Flutter Developer**  
+🔭 Currently working as a **Freelance Flutter Developer**  
 🌱 Exploring **advanced Flutter** & **WebRTC** for real-time apps  
 💬 Ask me about **Flutter, Dart, Mobile App Development, and UI/UX design**  
 ⚡ Fun fact: *I can spend hours perfecting a pixel but still forget my coffee ☕😅*  
@@ -12,7 +15,7 @@
 ---
 
 ## 🌐 Connect with Me:
-<p align="left">
+<p align="center">
 <a href="https://instagram.com/yaaaseen__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/yacn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://youtube.com/@ya.cn_" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
@@ -61,6 +64,13 @@
 
 ---
 
+# 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
 # ✨ Fun Extras:
 - 🖌️ I enjoy blending **design + development** to create pixel-perfect apps  
 - 🎬 Outside coding, I love **editing, AI visuals, and creative content**  
@@ -68,4 +78,5 @@
 
 ---
 
-<!-- Generated & Styled with ❤️ -->
+<!-- Footer Banner -->
+<img src="https://i.ibb.co/0jFjqsk/github-footer.png" width="100%" alt="Footer"/>

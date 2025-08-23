@@ -1,81 +1,147 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Yaseen;Freelance+Flutter+Developer;UI%2FUX+Enthusiast;Tech+Explorer+%F0%9F%9A%80" alt="Typing Banner"/>
-</p>
+<div align="center">
 
-<!-- Top Banner (GIF programmer theme) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF Banner" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff6ec7,100:833ab4&height=280&section=header&text=Hi%20there,%20I'm%20Muhammed%20Yaseen!%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Freelance%20Flutter%20Developer%20|%20UI/UX%20Enthusiast%20|%20Tech%20Explorer%20🚀&descSize=20&descAlignY=55" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff0000&center=true&vCenter=true&width=700&lines=🚀+Freelance+Flutter+Developer;🎨+UI/UX+Enthusiast;✨+Tech+Explorer" alt="Typing SVG" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/yacn/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/yaaaseen__">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://youtube.com/@ya.cn_">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="mailto:muhammardyaseen@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,github,vscode,androidstudio&theme=dark" />
+
+</div>
 
 ---
 
-# 💫 About Me:
-🔭 Currently working as a **Freelance Flutter Developer**  
-🌱 Exploring **advanced Flutter** & **WebRTC** for real-time apps  
-💬 Ask me about **Flutter, Dart, Mobile App Development, and UI/UX design**  
+## 🚀 My Story
+
+I’m a **Freelance Flutter Developer** who started with design and grew into building complete mobile solutions.  
+🌱 Currently exploring **advanced Flutter** and **WebRTC** for real-time applications.  
+💬 Ask me about **Flutter, Dart, Mobile App Development, and UI/UX design**.  
 ⚡ Fun fact: *I can spend hours perfecting a pixel but still forget my coffee ☕😅*  
 
 ---
 
-## 🌐 Connect with Me:
-<p align="center">
-<a href="https://instagram.com/yaaaseen__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/yacn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://youtube.com/@ya.cn_" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
-<a href="mailto:muhammardyaseen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+## 💫 What I'm Up To
 
----
-
-# 💻 Tech Stack:
-<p align="center">
+<div align="center">
   
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/CURRENTLY%20WORKING%20ON-0D1117?style=for-the-badge&logo=flutter&logoColor=white&labelColor=ff0000" />
+      <br><br>
+      <b>Freelance Flutter Projects</b>
+      <br>
+      Cross-Platform Mobile Apps
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/CURRENTLY%20LEARNING-0D1117?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=ff6ec7" />
+      <br><br>
+      <b>Advanced Flutter & WebRTC</b>
+      <br>
+      Real-Time Communication
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/ASK%20ME%20ABOUT-0D1117?style=for-the-badge&logo=messenger&logoColor=white&labelColor=833ab4" />
+      <br><br>
+      <b>Flutter & Mobile Development</b>
+      <br>
+      UI/UX Principles
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/REACH%20ME%20AT-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=fcb045" />
+      <br><br>
+      <b>muhammardyaseen@gmail.com</b>
+      <br>
+      Let’s Connect!
+    </td>
+  </tr>
+</table>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)  
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
-
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yaseeeeeeeeeeen&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=yaseeeeeeeeeeen&theme=radical&hide_border=false" height="150"/>
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseeeeeeeeeeen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+### 🎨 Design & UI/UX
+<p>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
 </p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-%23FCA326.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
-# 🐍 Contribution Snake:
-<p align="center">
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yaseeeeeeeeeeen&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff6ec7&text_color=c9d1d9&bg_color=0d1117" alt="Yaseen's GitHub Stats" />
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseeeeeeeeeeen&layout=compact&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yaseeeeeeeeeeen&theme=radical&hide_border=true&background=0D1117&stroke=ff0000&ring=ff6ec7&fire=fcb045&currStreakLabel=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+</div>
 
 ---
 
-<!-- Animated Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=2000&color=FF6EC7&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing+together!+🚀" alt="Footer Animation"/>
-</p>
+<div align="center">
+  
+### 💭 Thanks for Visiting! Let’s Build Something Amazing Together 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff6ec7,100:833ab4&height=100&section=footer" width="100%"/>
+
+</div>

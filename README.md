@@ -29,10 +29,19 @@
 
 ## 🚀 My Story
 
-I’m a **Freelance Flutter Developer** who started with design and grew into building complete mobile solutions.  
-🌱 Currently exploring **advanced Flutter** and **WebRTC** for real-time applications.  
-💬 Ask me about **Flutter, Dart, Mobile App Development, and UI/UX design**.  
-⚡ Fun fact: *I can spend hours perfecting a pixel but still forget my coffee ☕😅*  
+Hey there! I’m Yaseen — a passionate Freelance Flutter Developer who loves turning wild ideas into pixel-perfect mobile experiences.
+
+💡 My journey started with sketching UI/UX mockups, but curiosity pulled me deeper into code — now I craft apps from concept ✏️ to deployment 🚀, making sure every screen feels alive.
+
+🔭 These days, I’m exploring advanced Flutter architectures and playing around with WebRTC — because why stop at building apps when you can make them talk to each other in real time 👀?
+
+🎨 I’m obsessed with the little details — gradients, micro-interactions, animations — the kind of polish that turns an app into an experience.
+
+🎮 Oh, and when I’m not coding, I’m probably gaming. Whether it’s grinding through late-night matches or exploring open worlds, gaming keeps my creativity sharp (and sometimes inspires app ideas 👾).
+
+⚡ Fun fact: I’ll spend hours fixing a single pixel misalignment… but still forget where I left my coffee ☕😅.
+
+🌍 My vision? To build apps that are not just functional, but delightful — blending technology, creativity, and maybe just a hint of gaming spirit to craft experiences people genuinely love using.
 
 ---
 

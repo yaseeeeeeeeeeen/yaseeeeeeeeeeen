@@ -4,7 +4,7 @@
 </p>
 <!-- Top Banner (GIF programmer theme, 16:9 ratio recommended) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF Banner" width="100%" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF Banner" width="100%" />
 </p>
 ---
 
